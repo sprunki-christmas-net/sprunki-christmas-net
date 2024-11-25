@@ -6,7 +6,7 @@ Mix festive beats and create jolly holiday tunes! Bring winter wonder to life wi
 
 Play Game Here : [Sprunki Christmas](https://sprunkichristmas.net/ "Sprunki Christmas")
 
-![Sprunki Christmas](C:\Users\hp\AppData\Roaming\Typora\typora-user-images\image-20241125211542672.png "Sprunki Christmas")
+![Sprunki Christmas](./sprunkichristmas.png "Sprunki Christmas")
 
 ## What is Sprunki Christmas
 
